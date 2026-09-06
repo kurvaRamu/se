@@ -1,21 +1,8 @@
 git init
-
 git config --global user.name "YourGitHubUsername"
-
 git config --global user.email "your-email@gmail.com"
-
 git status
-
 git add .
-
 git status
-
 git commit -m "first commit"
 
-git branch -M main
-
-git remote add origin https://github.com/YOUR_USERNAME/maven-project.git
-
-git remote -v
-
-git push -u origin main
